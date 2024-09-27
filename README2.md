@@ -1,0 +1,1 @@
+Readme criado para praticar funções do git.
